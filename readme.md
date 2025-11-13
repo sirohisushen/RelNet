@@ -59,7 +59,6 @@ flowchart LR
     E --> F[Temporal Modeling & Style Embeddings]
     F --> G[Analytics & Visualization]
     F --> H[AI Email Generation for Drafts]
-Analytics & Visualization: Tone evolution graphs, relationship heatmaps, clusters of communication archetypes
 ```
 AI Email Generation: Drafts emails respecting tone, style, and context
 
