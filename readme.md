@@ -60,7 +60,7 @@ flowchart LR
     F --> G[Analytics & Visualization]
     F --> H[AI Email Generation (Drafts)]
 Analytics & Visualization: Tone evolution graphs, relationship heatmaps, clusters of communication archetypes
-
+```
 AI Email Generation: Drafts emails respecting tone, style, and context
 
 Quickstart
@@ -76,8 +76,7 @@ source venv/bin/activate   # Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
-# Run demo pipeline
-python demo_pipeline.py
+
 Applications
 Self-Awareness Tools: Track and analyze your communication style
 
